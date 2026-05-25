@@ -32,7 +32,7 @@ If no flag is provided, the script defaults to `ALL`.
 CPU_metal layer visualization opened with KLayout:
 
 <p align="center">
-  <img src="benchmark/CPU_metal.png" alt="CPU_metal layer visualization opened with KLayout">
+  <img src=".assert/CPU_metel_klayout.png" alt="CPU_metal layer visualization opened with KLayout">
 </p>
 
 ## Citation
