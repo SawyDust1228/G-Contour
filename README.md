@@ -27,6 +27,14 @@ To generate GDS outputs for all benchmarks into `temp/`:
 
 If no flag is provided, the script defaults to `ALL`.
 
+## Visualization
+
+CPU_metal layer visualization opened with KLayout:
+
+<p align="center">
+  <img src="benchmark/CPU_metal.png" alt="CPU_metal layer visualization opened with KLayout">
+</p>
+
 ## Citation
 
 If you use this work for academic research, please cite:
